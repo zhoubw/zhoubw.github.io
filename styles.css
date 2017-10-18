@@ -1,0 +1,22 @@
+body {
+    margin: 30px auto;
+    max-width: 650px;
+    line-height: 150%;
+    font-size: 18px;
+    font-family: "Helvetica", sans-serif;
+    padding:0 10px
+}
+
+h1,h2,h3 {
+    line-height:1.2
+}
+
+p {
+    color: #737373;
+    
+}
+
+.links a {
+    padding: 0px 24px 0px 0px;
+    align: left
+}
